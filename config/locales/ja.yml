@@ -1,0 +1,10 @@
+ja:
+  activerecord:
+    attributes:
+      post:
+        content: ささやき
+
+      user:
+        name: ユーザー名
+
+        email: メールアドレス
